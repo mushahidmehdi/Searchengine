@@ -1,3 +1,4 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/mushahidmehdi/HagiaSearchEngine?style=plastic)
 # Getting Started with Create React App
 
 Live demo https://search-musho.web.app/SAFS.US
