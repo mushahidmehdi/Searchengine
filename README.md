@@ -4,7 +4,10 @@
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/mushahidmehdi/Full-Stack-Web-Application/main/c49a9cf916c11d163b7b4d1256b89c211793d6ee)
 ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/mushahidmehdi/Full-Stack-Web-Application/dev/@babel/preset-react)
 
+![GitHub commit merge status](https://img.shields.io/github/commit-status/mushahidmehdi/Full-Stack-Web-Application/main/c49a9cf916c11d163b7b4d1256b89c211793d6ee)
+![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/mushahidmehdi/Full-Stack-Web-Application/dev/@babel/preset-react)
 
+![Conda](https://img.shields.io/conda/pn/conda-forge/python)
 
 
 # Getting Started with Create React App
