@@ -1,3 +1,6 @@
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fslackcompo.web.app%2F)
+![PingPong status](https://img.shields.io/pingpong/status/sp_2e80bc00b6054faeb2b87e2464be337e?style=plastic)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/mushahidmehdi/HagiaSearchEngine?style=plastic)
 ![Read the Docs](https://img.shields.io/readthedocs/pip?style=plastic)
 
